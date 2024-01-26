@@ -39,7 +39,6 @@ $(".Menu a").click(function(){
     $("html , body").animate({scrollTop:positionOfSection},2000);
     
 })
-
 // $("#homeLink").click(function(){
 //     let hometOffset = $("#header").offset().top;
 //     $("html").animate({scrollTop: hometOffset},1000)
